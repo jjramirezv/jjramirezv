@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero-terminal.svg" alt="Perfil de Jelibeth Ramirez: Web Developer" width="100%">
+<img src="assets/hero-portrait.svg" alt="Perfil de Jelibeth Ramirez: Web Developer" width="100%">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=2DD4BF&center=true&vCenter=true&width=900&lines=Web+Developer+%7C+JavaScript+%C2%B7+PHP+%C2%B7+Python;Plataformas+para+educaci%C3%B3n%2C+negocios+y+trazabilidad+agroindustrial;Aprendiendo+construyendo)](https://github.com/jjramirezv)
 
@@ -9,10 +9,6 @@
 </div>
 
 ---
-
-## `$ whoami`
-
-![Terminal con el perfil de Jelibeth](assets/whoami.svg)
 
 ## `$ cat tech-stack.yaml`
 
