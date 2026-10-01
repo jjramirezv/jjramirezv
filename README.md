@@ -63,12 +63,6 @@
 
 <div align="center">
 
-![Gráfico de actividad](https://github-readme-activity-graph.vercel.app/graph?username=jjramirezv&bg_color=0f172a&color=2dd4bf&line=c4b5fd&point=f8fafc&area=true&area_color=2dd4bf&hide_border=true)
-
-</div>
-
-<div align="center">
-
 ![Racha de contribuciones](https://streak-stats.demolab.com?user=jjramirezv&theme=dark&background=0F172A&ring=2DD4BF&fire=C4B5FD&currStreakLabel=2DD4BF&hide_border=true)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=jjramirezv&layout=compact&hide_border=true&bg_color=0f172a&title_color=2dd4bf&text_color=e2e8f0)
 
